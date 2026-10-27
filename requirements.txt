@@ -1,0 +1,13 @@
+# contents
+numpy
+pandas
+matplotlib
+
+# tooling
+jupyterlab
+#ipywidgets
+#ipympl
+#itables
+
+# for vs-code
+# ipykernel
